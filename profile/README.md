@@ -13,5 +13,5 @@ Includes loads of tools, and utilities.</br>
 **[Download today!]**
 https://sourceforge.net/projects/daftpunklinux/</br>
 
-[![Website](https://tinyurl.com/yu877pk4)](https://home.veltron.net)<br>
+[![Website](https://tinyurl.com/9vtbataj)](https://home.veltron.net)<br>
 [![Fluxer](https://tinyurl.com/3auxjakf)](https://fluxer.go.veltron.net)<br>
